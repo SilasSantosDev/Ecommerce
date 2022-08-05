@@ -4,7 +4,7 @@ Mais um projeto concluído com sucesso!!!
 <br/>
 Todos os arquivos disponiveis aqui
 <br/>
-Realizado usando HTML, CSS e JavaScript 
+Realizado usando HTML, CSS, JavaScript e jQuery.
 <br/>
 <br/>
 <br/>
